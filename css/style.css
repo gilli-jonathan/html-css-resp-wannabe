@@ -129,6 +129,19 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
 
-@media screen and (max-width:768px) {}
+@media screen and (max-width:768px) {
+.steps {
+    margin: 3rem 0;
+    padding: 3rem 0;
+    color: #232946;
+    background: #eebbc3;
+    width: 1140px;
+}
+
+h1 {
+        width: 1120px;
+}
+
+}
 
 @media screen and (max-width:480px) {}
