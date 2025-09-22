@@ -183,8 +183,14 @@ img {
     }
 
     .why-us {
-        margin-bottom: 3rem;
+        padding-top: 3rem;
+        padding-bottom: 3rem;
         background-color: black;
+        margin-bottom: 0;
     }
 
+    .steps {
+    margin: 0rem 0;
+
+}
 }
