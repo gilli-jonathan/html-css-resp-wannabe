@@ -129,13 +129,14 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
 
-@media screen and (max-width:768px) {
-
        .container {
         max-width: 1140px;
         width: 100%;
         padding: 0 20px;
     }
+
+@media screen and (max-width:768px) {
+
 
     .steps {
         margin: 3rem 0;
@@ -161,11 +162,6 @@ img {
 
     }
 
-    .container {
-        max-width: 1140px;
-        width: 100%;
-        padding: 0 20px;
-    }
 
     .lessons .col {
         width: 100%;
